@@ -1,0 +1,20 @@
+{
+  "name": "mentoria-ia-osce-fmrp",
+  "version": "1.0.0",
+  "description": "Mentoria IA Literacy para prova prática OSCE - Residência Médica FMRP-USP",
+  "scripts": {
+    "dev": "python -m http.server 8000",
+    "build": "echo 'Static site - no build needed'"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  },
+  "keywords": [
+    "medical",
+    "education",
+    "osce",
+    "simulation"
+  ],
+  "author": "",
+  "license": "ISC"
+}
