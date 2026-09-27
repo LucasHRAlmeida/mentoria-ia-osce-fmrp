@@ -1,18 +1,7 @@
 {
   "name": "mentoria-ia-osce-fmrp",
   "version": "1.0.0",
-  "description": "Mentoria IA Literacy - OSCE FMRP-USP Simulator",
-  "scripts": {
-    "dev": "python -m http.server 8000 || python3 -m http.server 8000"
-  },
-  "keywords": [
-    "osce",
-    "medical-education",
-    "simulator"
-  ],
-  "author": "Lucas HR Almeida",
-  "license": "MIT"
-  "description": "Mentoria IA Literacy para prova prática OSCE - Residência Médica FMRP-USP",
+  "description": "Mentoria IA Literacy para prova pr\u00e1tica OSCE - Resid\u00eancia M\u00e9dica FMRP-USP",
   "scripts": {
     "dev": "python -m http.server 8000",
     "build": "echo 'Static site - no build needed'"
@@ -26,6 +15,6 @@
     "osce",
     "simulation"
   ],
-  "author": "",
-  "license": "ISC"
+  "author": "Lucas HR Almeida",
+  "license": "MIT"
 }
