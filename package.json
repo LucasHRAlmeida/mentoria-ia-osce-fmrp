@@ -1,7 +1,7 @@
 {
   "name": "mentoria-ia-osce-fmrp",
   "version": "1.0.0",
-  "description": "Mentoria IA Literacy para prova pr\u00e1tica OSCE - Resid\u00eancia M\u00e9dica FMRP-USP",
+  "description": "Mentoria IA Literacy para prova prática OSCE - Residência Médica FMRP-USP",
   "scripts": {
     "dev": "python -m http.server 8000",
     "build": "echo 'Static site - no build needed'"
